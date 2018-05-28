@@ -1,0 +1,59 @@
+git add .
+git commit
+git push
+$ git add .
+
+aa@LAPTOP-GHR263E5 MINGW64 ~/Desktop/weiweiweiwei (master)
+$ git commit -m 'addhtml'
+[master 7523647] addhtml
+ 36 files changed, 733 insertions(+)
+ create mode 100644 zhongzhixinyuan/css/index.css
+ create mode 100644 zhongzhixinyuan/images/banner.png
+ create mode 100644 zhongzhixinyuan/images/baoxian.png
+ create mode 100644 zhongzhixinyuan/images/blue.png
+ create mode 100644 zhongzhixinyuan/images/circle.png
+ create mode 100644 zhongzhixinyuan/images/dibage.png
+ create mode 100644 zhongzhixinyuan/images/dierge.png
+ create mode 100644 zhongzhixinyuan/images/diliuge.png
+ create mode 100644 zhongzhixinyuan/images/diqige.png
+ create mode 100644 zhongzhixinyuan/images/disange.png
+ create mode 100644 zhongzhixinyuan/images/disige.png
+ create mode 100644 zhongzhixinyuan/images/diwuge.png
+ create mode 100644 zhongzhixinyuan/images/diyige.png
+ create mode 100644 zhongzhixinyuan/images/global.png
+ create mode 100644 zhongzhixinyuan/images/gongjijin.png
+ create mode 100644 zhongzhixinyuan/images/jiantou1.png
+ create mode 100644 zhongzhixinyuan/images/jiantou2.png
+ create mode 100644 zhongzhixinyuan/images/kuohao1.png
+ create mode 100644 zhongzhixinyuan/images/kuohao2.png
+ create mode 100644 zhongzhixinyuan/images/line.png
+ create mode 100644 zhongzhixinyuan/images/logo.png
+ create mode 100644 zhongzhixinyuan/images/ma.png
+ create mode 100644 zhongzhixinyuan/images/people.png
+ create mode 100644 zhongzhixinyuan/images/qq.png
+ create mode 100644 zhongzhixinyuan/images/shouhou.png
+ create mode 100644 zhongzhixinyuan/images/tiaotiao.png
+ create mode 100644 zhongzhixinyuan/images/wei xin.png
+ create mode 100644 zhongzhixinyuan/images/zan.png
+ create mode 100644 zhongzhixinyuan/images/zhi.png
+ create mode 100644 zhongzhixinyuan/images/zhifu.png
+ create mode 100644 zhongzhixinyuan/images/zhuanye.png
+ create mode 100644 zhongzhixinyuan/images/zhuanyefuwu.png
+ create mode 100644 zhongzhixinyuan/images/zhuce.png
+ create mode 100644 zhongzhixinyuan/images/zizhirenzheng.png
+ create mode 100644 zhongzhixinyuan/images/zuihou.png
+ create mode 100644 zhongzhixinyuan/index.html
+
+aa@LAPTOP-GHR263E5 MINGW64 ~/Desktop/weiweiweiwei (master)
+$ git push
+fatal: HttpRequestException encountered.
+   ?????????????
+Counting objects: 41, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (40/40), done.
+Writing objects: 100% (41/41), 1.02 MiB | 321.00 KiB/s, done.
+Total 41 (delta 11), reused 0 (delta 0)
+remote: Resolving deltas: 100% (11/11), done.
+To https://github.com/xuhang2017/weiweiweiwei.git
+   1fb49c6..7523647  master -> master
+
